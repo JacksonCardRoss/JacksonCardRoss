@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **jacksoncardross@gmail.com**
 
-- 📄 Know about me: [Resume]()
+- 📄 Find out about me: [Resume]()
 
 - ⚡ Fun fact **I drive a Mini Cooper**
 
