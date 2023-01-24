@@ -1,7 +1,11 @@
 <h1 align="center">Hey there, I'm Jackson 👋</h1>
-<h3 align="center">A Young Backend Developer</h3>
 
-<b1 align="left">I am a full-time student at BloomTech (formerly known as Lambda) and I am currently looking into graduating by January 2023! 🎉 I always loved coding and I took every coding class that was available to me in high school.  During my senior year I dual-enrolled at Salt Lake Community College for their Backend Development Course.  After I graduated high school, I enrolled at Bloomtech to get a better education</b1>
+<b1 align="left">I am a Backend Software Developer with experience using Java, AWS, and Cloud-native technology tools.
+Recently, I have contributed to hands-on dynamic application build projects and look forward to further collaboration with architects, engineers, QA, and Operations teams to design and develop  highly scalable, database-driven consumer web applications.
+
+I always loved coding and I took every coding class that was available to me in high school. Likewise, during my senior year, I simultaneously enrolled at Jordan Career and Technical Education (CTE) for their Java-focused Web Development Course. After I graduated high school, I enrolled at Bloomtech to get more hands-on experience and verified credentials.
+
+👀Feel free to check out my recent project highlights below or connect with me to learn more! 💬</b1>
 <h1></h1>
 
 
