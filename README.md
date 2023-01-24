@@ -15,8 +15,6 @@ I always loved coding and I took every coding class that was available to me in 
 
 - 📄 Know about me: [Resume](https://docs.google.com/document/d/1-GNDSexTa7B06HmW2A9_DBAoXvSxt0DspeMOIsFSzBM/edit?usp=sharing)
 
-- ⚡ Fun fact: **Fun Fact**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/jacksoncardross" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ben-wilson-38b811228" height="30" width="40" /></a>
