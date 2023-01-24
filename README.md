@@ -13,7 +13,7 @@ I always loved coding and I took every coding class that was available to me in 
 
 - 📫 How to reach me **jacksoncardross@gmail.com**
 
-- 📄 Know about me: [Resume]()
+- 📄 Know about me: [Resume](https://docs.google.com/document/d/1-GNDSexTa7B06HmW2A9_DBAoXvSxt0DspeMOIsFSzBM/edit?usp=sharing)
 
 - ⚡ Fun fact: **Fun Fact**
 
